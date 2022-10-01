@@ -32,7 +32,7 @@ Suit Order: Clubs, Spades, Hearts, Diamonds
 
 Deal 17 cards.
 Last card is face-up.
-Holder of 3♢ takes it and starts the hand.
+Holder of 3♦ takes it and starts the hand.
 
 ## Briscola
 
@@ -59,7 +59,7 @@ Person leading the trick may ask about partner's hand, and may give orders.
 
 Play [Briscola Chiamata](https://www.pagat.com/aceten/briscola_chiamata.html)
 
-### 6 PLayers
+### 6 Players
 
 Option 1: Chiamata with one player sitting out per hand
 
@@ -86,8 +86,17 @@ Playing Alone
 | 101 | ±20 |
 
 If attackers win all tricks, scores are doubled
+## Eleusis
+
+[Rules from matuszek.org](http://www.matuszek.org/eleusis1.html)
 
 ## Liar's Dice
+
+## Scopa
+
+## Skull
+
+[Rules](https://cdn.1j1ju.com/medias/eb/1e/99-skull-rulebook.pdf)
 
 ## Tarock
 
