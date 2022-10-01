@@ -116,3 +116,17 @@ If they re-roll they have to bid.
 ## Tute
 
 A-10 Trick-taking Card Game, Players: 
+
+[Rules by Pagat](https://www.pagat.com/marriage/tute.html)
+
+Deal 10 cards to each player.
+
+Swapping allowed after winning trick.
+
+### Subastado
+
+Can be played with 3 players, or 4 with the dealer sitting out.
+
+For advanced players, Subastado is the preferred variation.
+Bidding starts at 60, raising in increments of 5.
+If everyone passes, bring the bid down by 10.
