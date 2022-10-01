@@ -101,6 +101,12 @@ If they re-roll they have to bid.
 
 ## Scopa
 
+[Scopa Rules by Pagat](https://www.pagat.com/fishing/scopa.html)
+
+### 4 Players
+
+[Scopone](https://www.pagat.com/fishing/scopone.html) is preferred.
+
 ## Skull
 
 [Rules](https://cdn.1j1ju.com/medias/eb/1e/99-skull-rulebook.pdf)
