@@ -86,6 +86,25 @@ Playing Alone
 | 101 | ±20 |
 
 If attackers win all tricks, scores are doubled
+
+## Cockroach Poker
+
+[Original Cockroach Royal Rules](docs/cockroach_poker_rules.pdf)
+
+**Playing with regular cards:**
+
+Use 8 pip cards and 1 king per suit.
+Red Joker is wild non-royal.
+Black Joker is the "always-wrong" card.
+Deal 4 cards into the penalty pile.
+This works for up to 4 players.
+
+**Playing with Spanish cards:**
+
+1-7 + King -> 
+Jack of Cups is wild non-royal.
+Jack of Swords is the "always-wrong" card.
+
 ## Eleusis
 
 [Rules from matuszek.org](http://www.matuszek.org/eleusis1.html)
