@@ -111,6 +111,20 @@ If they re-roll they have to bid.
 
 [Rules](https://cdn.1j1ju.com/medias/eb/1e/99-skull-rulebook.pdf)
 
+## Spicy Mahjong
+
+Pieces:
+* Regular Tiles, 1-9, 3 each
+* Red Dragon, 4 each (Wild Spice)
+* North, 4 each (Wild Number)
+* White Dragon, 1 each (World's End)
+* Point Sticks, 3 each (Trophy Cards)
+
+Can sub season tiles for trophy cards.
+There are 90 tiles total.
+
+[Original Spicy Rules](docs/spicy_rules.pdf)
+
 ## Tarock
 
 ## Tute
