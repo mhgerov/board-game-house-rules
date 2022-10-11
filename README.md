@@ -87,6 +87,14 @@ Playing Alone
 
 If attackers win all tricks, scores are doubled
 
+## Chinese Poker
+
+[Rules](https://www.888poker.com/magazine/poker-world/intro-to-chinese-poker)
+
+1-6 scoring (3-point bonus for sweep).
+Can fold, pay 2 points to each player.
+Foul hand penalty is 3 points to other players.
+
 ## Cockroach Poker
 
 [Original Cockroach Royal Rules](docs/cockroach_poker_rules.pdf)
