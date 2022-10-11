@@ -117,6 +117,10 @@ Jack of Swords is the "always-wrong" card.
 
 [Rules from matuszek.org](http://www.matuszek.org/eleusis1.html)
 
+## Fight the Landlord
+
+[Rules](https://www.pagat.com/climbing/doudizhu.html)
+
 ## Liar's Dice
 
 If the challenged bidder guessed the exact right number, the challenger gives a die to the challenged instead of discarding.
