@@ -123,8 +123,6 @@ Jack of Swords is the "always-wrong" card.
 
 ## Liar's Dice
 
-If the challenged bidder guessed the exact right number, the challenger gives a die to the challenged instead of discarding.
-
 When it's down to 2 players and one die each, the bidding is on the total sum of the dice.
 
 Players have the option of exposing one or more dice, then re-rolling.
