@@ -34,6 +34,18 @@ Deal 17 cards.
 Last card is face-up.
 Holder of 3♦ takes it and starts the hand.
 
+## Blackjack
+
+Bet Sizing: $50-$5000
+
+Blackjack: Payout is 3-to-2
+
+Insurance: Payout is 2-to-1
+
+Splitting: Allowed to split up to 3 times.
+
+Surrender: Late surrender is allowed. Lose half original bet.
+
 ## Briscola
 
 A-10 Trick-taking Card Game, Players: 2-6, Beginner-friendly
