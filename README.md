@@ -168,6 +168,10 @@ There are 90 tiles total.
 
 ## Tarock
 
+## Tresillo
+
+[Tresillo Abbreviated](games/tresillo.md)
+
 ## Tute
 
 A-10 Trick-taking Card Game, Players: 
