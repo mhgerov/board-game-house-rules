@@ -168,6 +168,8 @@ There are 90 tiles total.
 
 ## Tarock
 
+[Tarock Abbreviated](tarock/tarock.md)
+
 ## Tresillo
 
 [Tresillo Abbreviated](games/tresillo.md)
